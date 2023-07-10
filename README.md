@@ -157,6 +157,9 @@ command:
 
 Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [repo](Add this URL
+https://github.com/enis-memic/hello-rails-api/issues)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
